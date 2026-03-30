@@ -1,0 +1,22 @@
+{
+  "editor.wordWrap": "on",
+  "explorer.compactFolders": false,
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "editor.lineHeight": 26,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "JetBrains Mono, IBM Plex Mono, Monaco, 'Courier New', monospace",
+  "editor.letterSpacing": 0.3,
+  "github.copilot.enable": {
+    "markdown": true,
+    "plaintext": true,
+    "scminput": true
+  },
+  "editor.fontWeight": "300",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Catppuccin Mocha"
+}
