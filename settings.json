@@ -17,6 +17,6 @@
   "github.copilot.nextEditSuggestions.enabled": true,
   "editor.minimap.renderCharacters": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "symbols",
-  "workbench.colorTheme": "Catppuccin Mocha"
+  "workbench.iconTheme": "jetbrains-file-icon-theme-dark",
+  "workbench.colorTheme": "JetBrains Rider Dark Theme",
 }
